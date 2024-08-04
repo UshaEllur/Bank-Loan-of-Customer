@@ -5,6 +5,10 @@
 
 
 # Fig 1. Excel Dashboard
+
+
+
+
   
 
 
@@ -15,10 +19,21 @@
 
 
 
+
+
+
+
 ![Bank_PowerBI](https://github.com/user-attachments/assets/f6eadf7f-2b0d-48e6-abee-847e2023898a)
 
 
 # Fig 3. PowerBI Dashboard
+
+
+
+
+
+
+
 
 
 
